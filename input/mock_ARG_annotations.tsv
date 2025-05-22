@@ -1,0 +1,5 @@
+sample    contig    gene    class         start    end
+S1        contig1   blaTEM  beta-lactam   1000     1450
+S1        contig1   tetM    tetracycline  2000     2500
+S2        contig2   vanA    glycopeptide  500      1300
+S2        contig3   mecA    beta-lactam   150      600
