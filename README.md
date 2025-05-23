@@ -15,4 +15,12 @@ It simulates annotation parsing, summarizes ARGs by resistance class, and genera
 
 ## 📁 Folder Structure
 
+- input/: Simulated ARG annotation file
+- output/: Resulting .csv and .png files
+- src/: Python script for ARG summary
+
+### ARG Resistance Class Summary
+
+![ARG Resistance Barplot](ARG_barplot.png)
+
 
